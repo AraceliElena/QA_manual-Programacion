@@ -3,7 +3,7 @@ practica relacionada a las actividades de QA y programación
 
 
 
-##Introducción
+## Introducción
 Este es un repositorio de practicas con ejercicios de programación en c++ , python , desarrollo web y pruebas de testing QA
 
 -plan de pruebas
