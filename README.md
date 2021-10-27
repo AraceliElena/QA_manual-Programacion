@@ -1,4 +1,4 @@
-# QA_manual-Programaci-n
+# QA_manual-Programacion
 practica relacionada a las actividades de QA y programación 
 
 
